@@ -24,8 +24,8 @@ Effecten van de warnings en alerts heb ik redelijk subtiel gehouden waar dat nod
 
 Het effect waar de tension steeds heftiger wordt, wordt dmv een simpele javascript functie beïnvloed. Een simpele counter die telt naar 42 (zolang de scene duurt) en de animatie vermenigvuldigt met deze waarde (een variabale die wordt aangemaakt in html via css). Zo wordt de intensiteit gaandeweg op een optellende manier verhoogd.
 
-<img src="github-images/br2049-1.png" width="45%" />
-<img src="github-images/br2049-1.png" width="45%" />
+<img src="github-images/br2049-1.png" width="200px" />
+<img src="github-images/br2049-1.png" width="200px" />
 
 
 ## Resultaat
