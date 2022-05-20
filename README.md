@@ -24,3 +24,6 @@ Effecten van de warnings en alerts heb ik redelijk subtiel gehouden waar dat nod
 
 Het effect waar de tension steeds heftiger wordt, wordt dmv een simpele javascript functie beïnvloed. Een simpele counter die telt naar 42 (zolang de scene duurt) en de animatie vermenigvuldigt met deze waarde (een variabale die wordt aangemaakt in html via css). Zo wordt de intensiteit gaandeweg op een optellende manier verhoogd.
 
+## Resultaat
+
+Uiteindelijk ben ik best tevreden met het werk wat ik heb gemaakt. Ik denk zelf dat ik een goede balans heb gevonden tussen het visualiseren van de audio en het intact houden van de visuele stijl van de film zoals de regisseur dat heeft bedoeld. Nu hopen dat de docent die mening deelt en natuurlijk op een mooi cijfer :D.
